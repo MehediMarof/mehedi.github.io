@@ -6,7 +6,6 @@ body {
 
 a {
     color: #3559e0;
-    text-decoration: none;
     transition: color 0.2s ease;
 }
 
@@ -131,8 +130,6 @@ a:hover {
 .bio-link {
     color: #111111;
     font-weight: 700;
-    font-style: italic;
-    text-decoration: none;
     background-image: radial-gradient(circle, currentColor 1px, transparent 1px);
     background-size: 8px 4px;
     background-repeat: repeat-x;
@@ -143,7 +140,6 @@ a:hover {
 .bio-emph {
     color: #111111;
     font-weight: 700;
-    font-style: italic;
 }
 
 .bio-link:hover,
